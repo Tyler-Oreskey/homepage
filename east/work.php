@@ -5,7 +5,6 @@
     <meta name="description" content="Work">
     <meta name="keywords" content="Tyler Oreskey Previous Work">
     <meta name="author" content="Tyler Oreskey">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Work</title>
     <link rel="stylesheet" href="./styles/global.css">
     <link rel="stylesheet" href="./styles/work.css">
@@ -53,6 +52,10 @@
         </tr>
       </table>
     </section>
-    <object type="text/html" data="./footer.php"></object>
+    <footer>
+        <address>
+            <p>Author: Tyler Oreskey</p>
+        <address>
+    </footer>
   </body>
 </html>

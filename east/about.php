@@ -5,7 +5,6 @@
       <meta name="description" content="About">
       <meta name="keywords" content="Tyler Oreskey About">
       <meta name="author" content="Tyler Oreskey">
-      <meta name="viewport" content="width=device-width, initial-scale=1.0">
       <title>About</title>
       <link rel="stylesheet" href="./styles/global.css">
       <link rel="stylesheet" href="./styles/about.css">
@@ -36,6 +35,10 @@
       <img src="../images/nick2.JPG" width="200px">
       <img src="../images/voodoo.png" width="200px">
     </section>
-    <object type="text/html" data="./footer.php"></object>
+    <footer>
+      <address>
+          <p>Author: Tyler Oreskey</p>
+      <address>
+    </footer>
   </body>
 </html>
