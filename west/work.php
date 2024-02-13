@@ -14,7 +14,7 @@
     <nav>
       <ul>
           <li><a href="./index.php">Home</a></li>
-          <li><a href="../east/index.php">East</a></li>
+          <li><a href="../east/work.php">East</a></li>
           <li><a href="./about.php">About</a></li>
           <li><a href="./work.php">Work</a></li>
       </ul>

@@ -13,7 +13,7 @@
     <nav>
       <ul>
           <li><a href="./index.php">Home</a></li>
-          <li><a href="../west/index.php">West</a></li>
+          <li><a href="../west/work.php">West</a></li>
           <li><a href="./about.php">About</a></li>
           <li><a href="./work.php">Work</a></li>
       </ul>
