@@ -1,0 +1,23 @@
+.card {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 20px;
+    background-color: #141259;
+    color: white;
+  }
+
+  .text {
+    flex: 1;
+    padding: 15px;
+  }
+
+  .text p {
+    font-size: 18px;
+    line-height: 1.3;
+  }
+
+  .card img {
+    width: 200px;
+  }
