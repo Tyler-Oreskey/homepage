@@ -54,6 +54,10 @@
         </tr>
       </table>
     </section>
-    <object type="text/html" data="./footer.php"></object>
+    <footer>
+      <address>
+          <p>Author: Tyler Oreskey</p>
+      <address>
+    </footer>
   </body>
 </html>

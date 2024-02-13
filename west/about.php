@@ -37,6 +37,10 @@
       <img src="../images/nick2.JPG" width="200px">
       <img src="../images/voodoo.png" width="200px">
     </section>
-    <object type="text/html" data="./footer.php"></object>
+    <footer>
+      <address>
+          <p>Author: Tyler Oreskey</p>
+      <address>
+    </footer>
   </body>
 </html>

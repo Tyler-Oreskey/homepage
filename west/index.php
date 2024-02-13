@@ -36,7 +36,9 @@
         </div>
         </main>
         <footer>
-            <p>Tyler Oreskey</p>
+            <address>
+                <p>Author: Tyler Oreskey</p>
+            <address>
         </footer>
     </body>
 </html>
