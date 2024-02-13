@@ -20,4 +20,33 @@
 
   .card img {
     width: 200px;
+    flex-shrink: 0;
+    width: 300px;
+  }
+
+  .text header span {
+    color: #F29F05;
+  }
+
+  .text p {
+    font-size: 18px;
+    line-height: 1.3;
+  }
+  
+  .social-icons {
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: auto;
+  }
+
+  .social-icons i {
+    color: #F2B705;
+    transition: opacity 0.2s ease-in-out;
+  }
+
+  .social-icons i:hover {
+    cursor: pointer;
+    opacity: 0.3;
   }
