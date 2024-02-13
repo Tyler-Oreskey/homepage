@@ -54,9 +54,7 @@
       </table>
     </section>
     <footer>
-        <address>
-            <p>Author: Tyler Oreskey</p>
-        <address>
+        <p>Tyler Oreskey</p>
     </footer>
   </body>
 </html>

@@ -37,9 +37,7 @@
       <img src="../images/voodoo.png" width="200px">
     </section>
     <footer>
-      <address>
-          <p>Author: Tyler Oreskey</p>
-      <address>
+      <p>Tyler Oreskey</p>
     </footer>
   </body>
 </html>
