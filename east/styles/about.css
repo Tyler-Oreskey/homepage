@@ -8,6 +8,8 @@ main p {
     border-radius: 8px;
     overflow: hidden;
     background-color: var(--accent-color);
+    box-shadow: var(--box-shadow);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0), var(--accent-color), rgba(0, 0, 0, 0));
   }
 
   .profile-card .text {
@@ -18,9 +20,11 @@ main p {
   .profile-card img {
     flex-shrink: 0;
     width: 300px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
   }
 
-  .profile-card header span,  .social-icons i {
+  .profile-card header span, .social-icons i {
     color: var(--complementary-color);
   }
   
@@ -30,6 +34,7 @@ main p {
     justify-content: space-between;
     padding: 15px;
     margin: auto;
+    box-shadow: var(--box-shadow);
   }
 
   .social-icons i {
@@ -39,35 +44,44 @@ main p {
   .social-icons i:hover {
     cursor: pointer;
     opacity: 0.3;
+    background: transparent;
   }
 
   .container {
     display: flex;
     justify-content: space-between;
     width: 100%;
+    margin: 0;
   }
 
   .container .card {
     width: calc(30%);
-    padding-top: 30px;
+    margin-top: 30px;
     box-shadow: var(--box-shadow);
   }
 
   .container .card img {
     width: 100%;
     height: auto;
-    border-top-left-radius: 8px;
-    border-top-right-radius: 8px;
     vertical-align: middle;
   }
 
   .container .card .text {
     background-color: var(--accent-color);
-    border-bottom-left-radius: 8px;
-    border-bottom-right-radius: 8px;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0), var(--accent-color));
   }
 
   .container .card .text p {
     margin: 0;
     padding: 15px;
+  }
+
+  .container .card, .container .card .text {
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  }
+
+  .container .card img, .container .card {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
   }
