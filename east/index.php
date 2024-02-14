@@ -23,6 +23,8 @@
             </ul>
         </nav>
         <main>
+            <div class="divider"></div>
+            <div class="absolute-element">MADE IT TO EAST</div>
         </main>
         <footer>
             <p>Tyler Oreskey</p>
