@@ -51,87 +51,54 @@
         </div>
 
         <div class="container">
-          <div class="card">
+            <div class="card">
               <img src="../images/guide.JPG" alt="Fishing Guide Taking a photo with my fish.">
-
-                <div class="text">
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    </p>
-                </div>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
             </div>
+
             <div class="card">
               <img src="../images/af.png" alt="Anytime Fitness logo.">
-                <div class="text">
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    </p>
-                </div>
-                
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
             </div>
+
             <div class="card">
               <img src="../images/angel.jpg" alt="My dog sleeping.">
-                <div class="text">
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    </p>
-                </div>
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
             </div>
         </div>
 
         <div class="container">
-          <div class="card">
+            <div class="card">
               <img src="../images/cs2.png" alt="Counter Strike 2 logo.">
-                <div class="text">
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    </p>
-                </div>
-                
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
             </div>
+
+
             <div class="card">
               <img src="../images/dad.jpg" alt="My dad holding a caught fish.">
-                <div class="text">
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    </p>
-                </div>
-                
+              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p> 
             </div>
+
             <div class="card">
                 <img src="../images/nick1.PNG" alt="My friend holding a caught fish.">
-                <div class="text">
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    </p>
-                </div>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
             </div>
         </div>
 
         <div class="container">
           <div class="card">
             <img src="../images/nick2.JPG" alt="My friend holding a caught fish.">
-              <div class="text">
-                  <p>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                  </p>
-              </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
           </div>
+
           <div class="card">
             <img src="../images/voodoo.png" alt="New Belgium's Voodoo Ranger IPA logo.">
-                <div class="text">
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    </p>
-                </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
           </div>
+
           <div class="card">
             <img src="../images/voodoo.png" alt="New Belgium's Voodoo Ranger IPA logo.">
-                <div class="text">
-                    <p>
-                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                    </p>
-                </div>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
           </div>
         </div>
     </main>

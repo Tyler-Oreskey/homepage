@@ -10,7 +10,6 @@
 
 body {
     font-family: 'Raleway', 'IBM Plex Sans', 'Roboto', sans-serif;
-    margin: 0;
     background-color: var(--dominant-color);
     color: var(--p-color);
 }
