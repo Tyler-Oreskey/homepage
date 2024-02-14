@@ -1,18 +1,32 @@
 :root {
     --dominant-color: #593EA2;
-    --complementary-color: #F29F05;
+    --complementary-color: #F2B705;
     --accent-color: #141259;
+    --opacity-text: 0.8;
+    --opacity-images: 0.9;
+    --p-color: white;
+    --box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3); 
 }
 
 body {
     font-family: 'Raleway', 'IBM Plex Sans', 'Roboto', sans-serif;
     margin: 0;
     background-color: var(--dominant-color);
+    color: var(--p-color);
 }
 
 main {
     width: 800px;
     margin: 0 auto;
+    font-weight: 500;
+}
+
+main p {
+  line-height: 1.5;
+}
+
+main img {
+  opacity: var(--opacity-images);
 }
 
 nav {
@@ -37,12 +51,13 @@ nav ul li a {
     font-weight: 800;
     text-decoration: none;
     padding: 10px 20px;
-    color: white;
+    color: var(--p-color);
+    opacity: var(--opacity-text);
     font-size: 20px;
 }
 
 nav ul li a:hover {
-    color: #141259;
+    color: var(--accent-color);
 }
 
 footer {
@@ -53,13 +68,14 @@ footer {
     width: 100%;
     text-align: center;
     background-color: var(--accent-color);
-    color: white;
+    color: var(--p-color);
     font-size: 20px;
 }
 
 footer p {
     padding: 10px 20px;
     margin: 0;
+    opacity: var(--opacity-text);
 }
 
 .ibm-plex sans-thin {

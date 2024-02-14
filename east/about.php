@@ -23,16 +23,7 @@
       </ul>
     </nav>
     <main>
-      <header>
-        <h1>About</h1>
-        <h2>
-          A CSU student studying Computer Science and Software Engineering 
-          with a desire to become a full stack engineer. I enjoy fly 
-          fishing, the gym, videogames, and visiting breweries.
-        </h2>
-      </header>
-      <section>
-      <div class="card">
+      <div class="profile-card">
             <div class="text">
                 <header>
                     <h1 class="name"><span>Tyler</span> Oreskey</h1>
@@ -59,71 +50,90 @@
             <img class="image" src="../images/Cartoon Generator.png" alt="photo of me holding a fish.">
         </div>
 
-      <div class="card">
-            <div class="text">
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                </p>
+        <div class="container">
+          <div class="card">
+              <img src="../images/guide.JPG" alt="Fishing Guide Taking a photo with my fish.">
+
+                <div class="text">
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                    </p>
+                </div>
             </div>
-            <img src="../images/guide.JPG" alt="Fishing Guide Taking a photo with my fish.">
+            <div class="card">
+              <img src="../images/af.png" alt="Anytime Fitness logo.">
+                <div class="text">
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                    </p>
+                </div>
+                
+            </div>
+            <div class="card">
+              <img src="../images/angel.jpg" alt="My dog sleeping.">
+                <div class="text">
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                    </p>
+                </div>
+            </div>
         </div>
-        <div class="card">
-            <div class="text">
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                </p>
+
+        <div class="container">
+          <div class="card">
+              <img src="../images/cs2.png" alt="Counter Strike 2 logo.">
+                <div class="text">
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                    </p>
+                </div>
+                
             </div>
-            <img src="../images/af.png" alt="Anytime Fitness logo.">
+            <div class="card">
+              <img src="../images/dad.jpg" alt="My dad holding a caught fish.">
+                <div class="text">
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                    </p>
+                </div>
+                
+            </div>
+            <div class="card">
+                <img src="../images/nick1.PNG" alt="My friend holding a caught fish.">
+                <div class="text">
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                    </p>
+                </div>
+            </div>
         </div>
-        <div class="card">
-            <div class="text">
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                </p>
-            </div>
-            <img src="../images/angel.jpg" alt="My dog sleeping.">
-        </div>
-        <div class="card">
-            <div class="text">
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                </p>
-            </div>
-            <img src="../images/cs2.png" alt="Counter Strike 2 logo.">
-        </div>
-        <div class="card">
-            <div class="text">
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                </p>
-            </div>
-            <img src="../images/dad.jpg" alt="My dad holding a caught fish.">
-        </div>
-        <div class="card">
-            <div class="text">
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                </p>
-            </div>
-            <img src="../images/nick1.PNG" alt="My friend holding a caught fish.">
-        </div>
-        <div class="card">
-            <div class="text">
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                </p>
-            </div>
+
+        <div class="container">
+          <div class="card">
             <img src="../images/nick2.JPG" alt="My friend holding a caught fish.">
-        </div>
-        <div class="card">
-            <div class="text">
-                <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
-                </p>
-            </div>
+              <div class="text">
+                  <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                  </p>
+              </div>
+          </div>
+          <div class="card">
             <img src="../images/voodoo.png" alt="New Belgium's Voodoo Ranger IPA logo.">
+                <div class="text">
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                    </p>
+                </div>
+          </div>
+          <div class="card">
+            <img src="../images/voodoo.png" alt="New Belgium's Voodoo Ranger IPA logo.">
+                <div class="text">
+                    <p>
+                      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                    </p>
+                </div>
+          </div>
         </div>
-      </section>
     </main>
     <footer>
       <p>Tyler Oreskey</p>

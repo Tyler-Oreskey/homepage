@@ -1,52 +1,73 @@
-.card {
+main p {
+  opacity: var(--opacity-text);
+}
+
+.profile-card {
     display: flex;
     justify-content: space-between;
     border-radius: 8px;
     overflow: hidden;
-    margin: 20px;
-    background-color: #141259;
-    color: white;
+    background-color: var(--accent-color);
   }
 
-  .text {
+  .profile-card .text {
     flex: 1;
     padding: 15px;
   }
 
-  .text p {
-    font-size: 18px;
-    line-height: 1.3;
-  }
-
-  .card img {
-    width: 200px;
+  .profile-card img {
     flex-shrink: 0;
     width: 300px;
   }
 
-  .text header span {
-    color: #F29F05;
-  }
-
-  .text p {
-    font-size: 18px;
-    line-height: 1.3;
+  .profile-card header span,  .social-icons i {
+    color: var(--complementary-color);
   }
   
   .social-icons {
     width: 50%;
     display: flex;
     justify-content: space-between;
-    padding: 20px;
+    padding: 15px;
     margin: auto;
   }
 
   .social-icons i {
-    color: #F2B705;
     transition: opacity 0.2s ease-in-out;
   }
 
   .social-icons i:hover {
     cursor: pointer;
     opacity: 0.3;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  .container .card {
+    width: calc(30%);
+    padding-top: 30px;
+    box-shadow: var(--box-shadow);
+  }
+
+  .container .card img {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    vertical-align: middle;
+  }
+
+  .container .card .text {
+    background-color: var(--accent-color);
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+  }
+
+  .container .card .text p {
+    margin: 0;
+    padding: 15px;
   }
