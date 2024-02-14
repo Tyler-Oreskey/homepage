@@ -8,6 +8,10 @@
     <title>Work</title>
     <link rel="stylesheet" href="./styles/global.css">
     <link rel="stylesheet" href="./styles/work.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;1,100;1,200;1,300;1,400;1,500;1,600;1,700&family=Raleway:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
   </head>
   <body>
     <nav>
@@ -18,43 +22,27 @@
           <li><a href="./work.php">Work</a></li>
       </ul>
     </nav>
-    <header>
-        <h1>Previous Work</h1>
-    </header>
-    <section>
-      <table>
-        <tr>
-          <td><img src="../images/toi.png" width="200px"></td>
-          <td>
-            Developed and maintained a marketing application where consumers save 
-            money by receiving deals on their phones. Completed a full-stack technology 
-            migration to reduce cost, modernize application structure and improve logic flows.
-            Created an e-gift card platform where users purchased gift cards from struggling 
-            local businesses during the pandemic. When necessary, performed immediate 
-            application support to sustain the flow of revenue and client contentment.
-          </td>
-        </tr>
-        <tr>
-          <td><img src="../images/scheels.png" width="200px"></td>
-          <td>
-            Worked as a freight handler, responsible for unloading products from 
-            trucks, palletizing them, and stocking them on the sales floor. Assisted
-             in lifting heavy items into customers' vehicles.
-          </td>
-        </tr>
-        <tr>
-          <td><img src="../images/hach.jpg" width="200px"></td>
-          <td>
-            Created water quality test electronics by hand soldering surface mount 
-            and through hole components on circuit boards. Controlled wave solder 
-            system to build complex circuit assembly and assured optimal board test 
-            by quality inspection.
-          </td>
-        </tr>
-      </table>
-    </section>
-    <footer>
-        <p>Tyler Oreskey</p>
-    </footer>
+    <main>
+          <div class="container">
+            <div class="card">
+                <img src="../images/toi.png" alt="TapOnIt logo.">
+                <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</span></p>
+                <div class="button"><a href="">Visit</a></div>
+            </div>
+
+            <div class="card">
+                <img src="../images/scheels.png" alt="Scheels logo.">
+                <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</span></p>
+                <div class="button"><a href="">Visit</a></div>
+            </div>
+
+            <div class="card">
+                <img src="../images/hach.jpg" alt="Hach logo.">
+                <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</span></p>
+                <div class="button"><a href="">Visit</a></div>
+            </div>
+        </div>
+    </main>
+    <footer><p>Tyler Oreskey</p></footer>
   </body>
 </html>
