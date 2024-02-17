@@ -2,9 +2,6 @@
     --dominant-color: #8C8C88;
     --complementary-color: #94A187;
     --accent-color: #102542;
-    /* --dominant-color: #F29F05;
-    --complementary-color: #141259;
-    --accent-color: #F2B705; */
     --opacity-text: 0.8;
     --opacity-images: 0.9;
     --p-color: white;
@@ -27,6 +24,7 @@ main {
     justify-content: center;
     margin-left: 150px;
     margin-top: 50px;
+    margin-bottom: 100px;
 }
 
 main p {
@@ -52,6 +50,7 @@ nav ul {
   }
 
 nav ul li {
+    text-align: left;
     display: inline-block;
 }
 

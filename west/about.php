@@ -23,6 +23,7 @@
       </ul>
     </nav>
     <main>
+      <div class="container">
       <div class="profile-card">
             <div class="text">
                 <header>
@@ -50,7 +51,7 @@
             <img class="image" src="../images/Cartoon Generator.png" alt="photo of me holding a fish.">
         </div>
 
-        <div class="container">
+        <div class="card-container">
             <div class="card">
               <img src="../images/guide.JPG" alt="Fishing Guide Taking a photo with my fish.">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
@@ -67,7 +68,7 @@
             </div>
         </div>
 
-        <div class="container">
+        <div class="card-container">
             <div class="card">
               <img src="../images/cs2.png" alt="Counter Strike 2 logo.">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
@@ -85,7 +86,7 @@
             </div>
         </div>
 
-        <div class="container">
+        <div class="card-container">
           <div class="card">
             <img src="../images/nick2.JPG" alt="My friend holding a caught fish.">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
@@ -101,6 +102,7 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
           </div>
         </div>
+      </div>
     </main>
     <footer>
       <p>Tyler Oreskey</p>

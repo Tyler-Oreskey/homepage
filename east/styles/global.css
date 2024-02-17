@@ -24,6 +24,8 @@ main {
     font-weight: 500;
     align-items: center;
     justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
 }
 
 main p {
