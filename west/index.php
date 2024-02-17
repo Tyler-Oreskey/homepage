@@ -24,7 +24,7 @@
         </nav>
         <main>
             <div class="divider"></div>
-            <div class="absolute-element">MADE IT TO EAST</div>
+            <div class="absolute-element">MADE IT TO WEST</div>
         </main>
         <footer>
             <p>Tyler Oreskey</p>

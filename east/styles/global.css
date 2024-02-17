@@ -15,6 +15,7 @@ body {
     font-family: 'Raleway', 'IBM Plex Sans', 'Roboto', sans-serif;
     background-color: var(--dominant-color);
     color: var(--p-color);
+    margin: 0;
 }
 
 main {
