@@ -87,6 +87,8 @@ footer p {
 
 .filler-text {
   padding-top: 10px;
+  opacity: var(--opacity-text);
+  line-height: 2;
 }
 
 

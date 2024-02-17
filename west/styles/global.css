@@ -1,7 +1,10 @@
 :root {
-    --dominant-color: #8C8C88;
+    /* --dominant-color: #8C8C88;
     --complementary-color: #94A187;
-    --accent-color: #102542;
+    --accent-color: #102542; */
+    --dominant-color: #0E0906;
+    --complementary-color: #8C8C88;
+    --accent-color: #29524A;
     --opacity-text: 0.8;
     --opacity-images: 0.9;
     --p-color: white;
@@ -88,6 +91,8 @@ footer p {
 
 .filler-text {
   padding-top: 10px;
+  opacity: var(--opacity-text);
+  line-height: 2;
 }
 
 .ibm-plex sans-thin {
