@@ -6,12 +6,10 @@ main span {
     display: flex;
     justify-content: space-between;
     width: 100%;
-    margin: 0;
 }
 
 .card {
     width: 30%;
-    margin-top: 30px;
     box-shadow: var(--box-shadow);
     border-radius: 8px;
     padding: 1px;
@@ -32,6 +30,8 @@ main span {
 
 .button a {
     position: relative;
+    display: block;
+    width: 100%;
     font-weight: bolder;
     text-decoration: none;
     color: var(--dominant-color);

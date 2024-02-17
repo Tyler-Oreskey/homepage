@@ -23,6 +23,8 @@
       </ul>
     </nav>
     <main>
+    <header><h1>About</h1></header>
+
       <div class="profile-card">
             <div class="text">
                 <header>
@@ -101,6 +103,9 @@
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
           </div>
         </div>
+        <p class="filler-text">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh. Nulla aliquet enim tortor at auctor urna. Non sodales neque sodales ut etiam. Hac habitasse platea dictumst quisque sagittis purus sit. Eget nunc scelerisque viverra mauris in aliquam sem. Feugiat scelerisque varius morbi enim nunc. Elementum curabitur vitae nunc sed velit dignissim sodales ut. Eget gravida cum sociis natoque penatibus et. Pellentesque diam volutpat commodo sed. Diam maecenas sed enim ut sem viverra aliquet. Et tortor consequat id porta nibh venenatis cras. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Cras pulvinar mattis nunc sed blandit libero volutpat. Vitae congue eu consequat ac felis donec et odio. Sociis natoque penatibus et magnis dis parturient montes nascetur.
+                </p>
     </main>
     <footer>
       <p>Tyler Oreskey</p>

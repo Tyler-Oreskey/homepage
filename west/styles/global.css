@@ -18,13 +18,12 @@ body {
 main {
     width: 90%;
     min-width: 600px;
-    margin: 0 auto;
     font-weight: 500;
     align-items: center;
     justify-content: center;
     margin-left: 150px;
     margin-top: 50px;
-    margin-bottom: 100px;
+    padding-bottom: 100px;
 }
 
 main p {
@@ -85,6 +84,10 @@ footer p {
     padding: 10px 20px;
     margin: 0;
     opacity: var(--opacity-text);
+}
+
+.filler-text {
+  padding-top: 10px;
 }
 
 .ibm-plex sans-thin {
