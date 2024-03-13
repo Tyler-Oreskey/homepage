@@ -1,0 +1,74 @@
+main span {
+    opacity: var(--opacity-text);
+}
+  
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin: 0;
+}
+
+.card {
+    width: 30%;
+    box-shadow: var(--box-shadow);
+    border-radius: 8px;
+    padding: 1px;
+}
+
+.container .card img {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.card p {
+    margin: 0;
+    padding: 15px;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0), var(--accent-color));
+}
+
+.button a {
+    position: relative;
+    display: block;
+    width: 100%;
+    font-weight: bolder;
+    text-decoration: none;
+    color: var(--dominant-color);
+}
+
+.button {
+    position: relative;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    background-color: var(--accent-color);
+    cursor: pointer;
+    overflow: hidden;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    transition: color 0.3s ease;
+}
+
+.button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, var(--accent-color), var(--dominant-color));
+    transition: left 0.3s ease;
+}
+
+.button:hover a {
+    color: var(--complementary-color);
+    opacity: var(--opacity-text);
+}
+
+.button:hover::before {
+    left: 0;
+}
