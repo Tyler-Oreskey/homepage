@@ -12,6 +12,7 @@ body {
   font-family: 'Raleway', 'IBM Plex Sans', 'Roboto', sans-serif;
   background-color: var(--dominant-color);
   color: var(--p-color);
+  margin: 0;
 }
 
 main {
@@ -77,7 +78,6 @@ footer {
   margin: 0;
   width: 100%;
   text-align: center;
-  background-color: var(--);
   color: var(--p-color);
   font-size: 20px;
   background-color: var(--accent-color);
@@ -180,10 +180,10 @@ line-height: 2;
 }
 
 .raleway-font {
-font-family: "Raleway", sans-serif;
-font-optical-sizing: auto;
-font-weight: 500;
-font-style: normal;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
 }
 
 .roboto-thin {
