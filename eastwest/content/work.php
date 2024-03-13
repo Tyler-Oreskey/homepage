@@ -18,19 +18,19 @@
       <header><h1>Previous Work</h1></header>
           <div class="container">
             <div class="card">
-                <img src="../images/toi.png" alt="TapOnIt logo.">
+                <img src="images/toi.png" alt="TapOnIt logo.">
                 <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</span></p>
                 <div class="button"><a href="https://taponit.com/" target="_blank">Visit</a></div>
             </div>
 
             <div class="card">
-                <img src="../images/scheels.png" alt="Scheels logo.">
+                <img src="images/scheels.png" alt="Scheels logo.">
                 <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</span></p>
                 <div class="button"><a href="https://scheels.com/" target="_blank">Visit</a></div>
             </div>
 
             <div class="card">
-                <img src="../images/hach.jpg" alt="Hach logo.">
+                <img src="images/hach.jpg" alt="Hach logo.">
                 <p><span>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</span></p>
                 <div class="button"><a href="https://hach.com" target="_blank">Visit</a></div>
             </div>

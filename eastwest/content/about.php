@@ -31,57 +31,57 @@
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Id aliquet lectus proin nibh. Nulla aliquet enim tortor at auctor urna. Non sodales neque sodales ut etiam. Hac habitasse platea dictumst quisque sagittis purus sit. Eget nunc scelerisque viverra mauris in aliquam sem. Feugiat scelerisque varius morbi enim nunc. Elementum curabitur vitae nunc sed velit dignissim sodales ut. Eget gravida cum sociis natoque penatibus et. Pellentesque diam volutpat commodo sed. Diam maecenas sed enim ut sem viverra aliquet. Et tortor consequat id porta nibh venenatis cras. Pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at. Cras pulvinar mattis nunc sed blandit libero volutpat. Vitae congue eu consequat ac felis donec et odio. Sociis natoque penatibus et magnis dis parturient montes nascetur.
                 </p>
             </div>
-            <img class="image" src="../images/Cartoon Generator.png" alt="photo of me holding a fish.">
+            <img class="image" src="images/Cartoon Generator.png" alt="photo of me holding a fish.">
         </div>
 
         <div class="card-container">
             <div class="card">
-              <img src="../images/guide.JPG" alt="Fishing Guide Taking a photo with my fish.">
+              <img src="images/guide.JPG" alt="Fishing Guide Taking a photo with my fish.">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
             </div>
 
             <div class="card">
-              <img src="../images/af.png" alt="Anytime Fitness logo.">
+              <img src="images/af.png" alt="Anytime Fitness logo.">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
             </div>
 
             <div class="card">
-              <img src="../images/angel.jpg" alt="My dog sleeping.">
+              <img src="images/angel.jpg" alt="My dog sleeping.">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
             </div>
         </div>
 
         <div class="card-container">
             <div class="card">
-              <img src="../images/cs2.png" alt="Counter Strike 2 logo.">
+              <img src="images/cs2.png" alt="Counter Strike 2 logo.">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
             </div>
 
 
             <div class="card">
-              <img src="../images/dad.jpg" alt="My dad holding a caught fish.">
+              <img src="images/dad.jpg" alt="My dad holding a caught fish.">
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p> 
             </div>
 
             <div class="card">
-                <img src="../images/nick1.PNG" alt="My friend holding a caught fish.">
+                <img src="images/nick1.PNG" alt="My friend holding a caught fish.">
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
             </div>
         </div>
 
         <div class="card-container">
           <div class="card">
-            <img src="../images/nick2.JPG" alt="My friend holding a caught fish.">
+            <img src="images/nick2.JPG" alt="My friend holding a caught fish.">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
           </div>
 
           <div class="card">
-            <img src="../images/voodoo.png" alt="New Belgium's Voodoo Ranger IPA logo.">
+            <img src="images/voodoo.png" alt="New Belgium's Voodoo Ranger IPA logo.">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
           </div>
 
           <div class="card">
-            <img src="../images/voodoo.png" alt="New Belgium's Voodoo Ranger IPA logo.">
+            <img src="images/voodoo.png" alt="New Belgium's Voodoo Ranger IPA logo.">
             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor</p>
           </div>
         </div>

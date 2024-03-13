@@ -3,19 +3,19 @@
         <li>
             <?php if ($direction === 'east'): ?>
                 <form action="?direction=west" method="post">
-                    <input type="hidden" name="page" value="<?php echo isset($_POST['page']) ? $_POST['page'] : 'home'; ?>">
+                    <input type="hidden" name="page" value="<?php echo isset($_POST['page']) ? $_POST['page'] : 'index'; ?>">
                     <button type="submit">West</button>
                 </form>
             <?php else: ?>
                 <form action="?direction=east" method="post">
-                    <input type="hidden" name="page" value="<?php echo isset($_POST['page']) ? $_POST['page'] : 'home'; ?>">
+                    <input type="hidden" name="page" value="<?php echo isset($_POST['page']) ? $_POST['page'] : 'index'; ?>">
                     <button type="submit">East</button>
                 </form>
             <?php endif; ?>
         </li>
         <li>
             <form method="post" action="?direction=<?php echo $direction; ?>">
-                <input type="hidden" name="page" value="home">
+                <input type="hidden" name="page" value="index">
                 <button type="submit">Home</button>
             </form>
         </li>
