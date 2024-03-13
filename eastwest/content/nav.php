@@ -3,12 +3,12 @@
         <li>
             <?php if ($direction === 'east'): ?>
                 <form action="?direction=west" method="post">
-                    <input type="hidden" name="page" value="<?php echo isset($_POST['page']) ? $_POST['page'] : 'index'; ?>">
+                    <input type="hidden" name="page" value="<?php echo $page; ?>">
                     <button type="submit">West</button>
                 </form>
             <?php else: ?>
                 <form action="?direction=east" method="post">
-                    <input type="hidden" name="page" value="<?php echo isset($_POST['page']) ? $_POST['page'] : 'index'; ?>">
+                    <input type="hidden" name="page" value="<?php echo $page; ?>">
                     <button type="submit">East</button>
                 </form>
             <?php endif; ?>
